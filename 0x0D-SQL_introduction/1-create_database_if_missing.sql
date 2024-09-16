@@ -1,3 +1,3 @@
---Creates a new Database
---Query to create a database hbtn_0c_0
+-- Creates a new Database
+-- Query to create a database hbtn_0c_0
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
